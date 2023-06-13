@@ -1,14 +1,14 @@
 [package]
-name = "validador-br"
-version = "0.1.3"
+name = "{crate_name}"
+version = "0.0.1"
 edition = "2021"
-authors = ["Ricardo da Rocha <ricardodarocha@hotmail.com>"]
+authors = ["Your Name <your e-mail>"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-description = "Validador para diversos documentos nacionais do Brasil (BR). Implementa o cálculo do dígito verificador para diversos tipos de documentos nacionais do Brasil Cpf, Cnpj, CartaoCredito, TituloEleitor, Cnh, Rg, Pis; Em breve implementados novos documentos Ie Im Inss Renavam"
-documentation = "https://docs.rs/validador-br"
+description = "Some description"
+documentation = "https://docs.rs/{crate_name}"
 keywords = ["validador", "validate"]
-repository = "https://github.com/ricardodarocha/validador-br/"
+repository = "https://github.com/ricardodarocha/{crate_repository}/"
 
 [lib]
 
